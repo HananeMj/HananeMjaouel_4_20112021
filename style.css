@@ -737,7 +737,7 @@ h3 {
 }
 
 h1 {
-    color: white!important;
+    color: #F3976C!important;
 }
 
 h4 {
@@ -748,7 +748,7 @@ h4 {
 }
 h5{
     font-size: 25px;
-    color: white!important;
+    color: #F3976C!important;
 
 }
 
@@ -763,6 +763,8 @@ h5{
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: auto;
+    height: auto;
 }
 
 .portfolio-row {
